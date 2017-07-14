@@ -1,0 +1,81 @@
+.navbar-header .navbar-brand {
+	color: #1CAA98;
+}
+
+.navbar-static-top{
+	margin-bottom: 0;
+}
+
+.color-text {
+	color: #1CAA98;
+}
+
+.scl {
+	transform: scale(.7, .7);
+}
+
+form {
+	margin-top: 50px;
+	
+}
+
+.back-img {
+	background-image: url("../resources/site_showcase_bg.jpg");
+	width: 100%;
+	background-size: cover;
+	z-index: -1;
+	min-height: 350px;
+}
+
+.capture-text {
+	padding-top: 50px;
+    padding-left: 50px;
+    color: white;
+}
+
+.header {
+	background-color: #1CAA98;
+	color: white;
+}
+
+
+
+#grid {
+	margin-top: 50px;
+}
+
+#gamma-features {
+	background-color: #1CAA98;
+	color: white;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.footer {
+	background-color: #383C3D;
+	color: white;
+	height: 50px;
+
+}
+
+.footer ul {
+	display: flex;
+	align-items: center;
+}
+
+.footer li {
+	padding-left: 2%;
+	margin-top: 15px;
+}
+
+
+.copyright {
+	margin-top: 15px;
+	text-align: center;
+	
+}
+
+ul {
+	list-style-type: none;
+}
+
